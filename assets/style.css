@@ -1,0 +1,25 @@
+.bg-header{
+    background-image: url("content/bg-header.png");
+    background-size: 100% 100%;
+    height: 150px;
+}
+
+.nav-link{
+    color:#ffffff !important;
+    margin-right: 15px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.navbar-brand h1, .navbar-brand span {
+    color:#ffffff;
+}
+
+.navbar-brand h1{
+    font-weight: 500;
+}
+
+.navbar-brand span{
+    font-weight: 250;
+}
